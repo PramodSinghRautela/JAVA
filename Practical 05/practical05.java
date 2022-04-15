@@ -1,5 +1,3 @@
-//Practical 01
-
 import java.util.Scanner;
 
 class Student{
